@@ -34,8 +34,7 @@ app.post('/send-payment-email', async (req, res) => {
       service: 'gmail',
       auth: {
         user: 'saqiniazibrand@gmail.com', // replace with your Gmail
-        pass: 'awnq qjlq nfig fzhv
-' // replace with your Gmail App Password
+        pass: 'awnq qjlq nfig fzhv' // replace with your Gmail App Password
       }
     });
 
